@@ -12,3 +12,10 @@ layout: default
 
 [Github](https://github.com/bengyphan)
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
